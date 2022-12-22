@@ -36,5 +36,5 @@ def get_value(dictionary):
 get_value(a)
 
 # задание 5
-from .figures import triangle_area
+from figures import triangle_area
 triangle_area()
